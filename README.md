@@ -1,5 +1,5 @@
 # Coding a Neural Network (University Project)
-Project: Creating a Neural Network (Individual Project)
+Project: Creating a Neural Network
 
 Technology: Pioneer Mobile Robot, Visual Studio, C++, Windows
 
